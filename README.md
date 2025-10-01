@@ -5,9 +5,9 @@
   🔹 Always eager to learn and improve my coding skills <br>
   🔹 Exploring projects that combine creativity and technology<br>
   🔹 Goal is to be a full-stack developer someday<br><br>
-I am a motivated IT student with a strong interest in front-end development and modern web technologies. <br>
+⚡ I am a motivated IT student with a strong interest in front-end development and modern web technologies. <br>
 I enjoy building responsive, user-friendly, and visually appealing applications using React and TailwindCSS.<br><br>
-Currently, I’m enhancing my skills in JavaScript frameworks, UI/UX design principles, and version control 
+🌱 Currently, I’m enhancing my skills in JavaScript frameworks, UI/UX design principles, and version control 
 <br>systems. My goal is to become a professional front-end developer who can contribute to impactful projects<br> while continuously learning in the ever-evolving tech industry.
 
 ## 🌐 Socials:
