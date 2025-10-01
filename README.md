@@ -1,5 +1,5 @@
-👋 Hi, I’m John Michael G. De Vera
-🎓 3rd Year Bachelor of Science in Information Technology 
+👋 Hi, I’m John Michael G. De Vera <br><br>
+🎓 3rd Year Bachelor of Science in Information Technology<br><br>
 📍 PUP Santa Maria, Bulacan
 💻 Passionate about Front-End Development, UI/UX, and Web Technologies <br>
 🌟 About Me
