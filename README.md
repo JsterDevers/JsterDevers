@@ -1,9 +1,14 @@
 # 👋 Hi, I’m John Michael G. De Vera <br>
-🎓 3rd Year Bachelor of Science in Information Technology <br> Polytechnic University of the Philippines📍 Sta. Maria Bulacan Campus <br><br>
-💻 Passionate about Front-End Development, UI/UX, and Web Technologies <br>
+🎓 3rd Year Bachelor of Science in Information Technology at <br> Polytechnic University of the Philippines📍 Sta. Maria Bulacan Campus <br><br>
+💻 Passionate about Front-End Development, UI/UX, and Web Technologies <br><br>
   🔹 Interested in React, TailwindCSS, and modern web development tools <br>
   🔹 Always eager to learn and improve my coding skills <br>
   🔹 Exploring projects that combine creativity and technology<br>
+  🔹 Goal is to be a full-stack developer someday<br><br>
+I am a motivated IT student with a strong interest in front-end development and modern web technologies. <br>
+I enjoy building responsive, user-friendly, and visually appealing applications using React and TailwindCSS.<br><br>
+Currently, I’m enhancing my skills in JavaScript frameworks, UI/UX design principles, and version control 
+<br>systems. My goal is to become a professional front-end developer who can contribute to impactful projects<br> while continuously learning in the ever-evolving tech industry.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pochiiiiiiiiis) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@toji_ro0) 
